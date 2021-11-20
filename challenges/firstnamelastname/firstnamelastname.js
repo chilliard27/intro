@@ -1,5 +1,12 @@
 function fullName(firstName, lastName) {
     // your code here
+    let namefirst = firstName
+    let namelast = lastName
+    let name = namefirst + ' ' + namelast
+
+    console.log(name)
+    return name
+
   }
   
   // ---- TESTS - don't change these ---- //
