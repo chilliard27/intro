@@ -11,3 +11,5 @@ function countdown(seconds) {
 
  }
 console.log(countdown(10))
+
+//So when I run this it runs all the numbers a once and then the ' second to liftoff' string over and over again
