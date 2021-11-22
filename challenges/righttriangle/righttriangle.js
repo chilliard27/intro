@@ -6,4 +6,5 @@ let area = ( .5 * base * height ) + ' square ' + units
 console.log(area)
 return area
 }
-console.log( righttriangle(4,5, 'feet') === '10 square feet' )
+console.log( righttriangle(4,5,'feet') === '10 square feet' )
+console.log( righttriangle(6,10,'meters') === '30 square meters' )
