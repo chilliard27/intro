@@ -6,3 +6,4 @@ let countdown= (seconds) => {
     return 'Liftoff!'
 }
 console.log(countdown(5))
+// Had to look up while loop and then checked against answer, my console.log is different
